@@ -1,6 +1,7 @@
 # interviewprep
 
-##AWS Leadership Principles
+### AWS Leadership Principles
+
 The AWS Leadership Principles are a set of guidelines that drive decision-making and behavior within the company. Here’s a summary of each principle:
 
 1. **Customer Obsession**: Start with the customer and work backwards, focusing on earning and keeping customer trust.
